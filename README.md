@@ -12,7 +12,9 @@ I will divide the data scraping section into two parts because the data I'm inte
 5. organize all the product url columns into a list
 
 ### Scraping Part 2
-1. 
+1. bring out the javascript console; 
+2. run function in `product_scraping.js` in your javascript console; 
+3. organize the data collected into csv or json
 
 ## 2. Data Exploration
 1. get data into csv format 
