@@ -5,7 +5,7 @@ This project demonstrates a full life-cycle a data science product, from data co
 1. open this url (https://www.anntaylor.com/dresses/cata000012?goToPage=2&N=0) in your web broswer;
 2. bring out the javascript console; 
 3. run function in `data_scraping.js` in your javascript console; 
-4. organize data collected into csv or json
+4. organize the data collected into csv or json
 
 ## 2. Data Exploration
 1. get data into csv format 
