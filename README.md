@@ -1,2 +1,9 @@
-# GAP
-This project scraps data from GAP's website and run data analytics on the product data collected. Finally, the data is used to train a machine learning model to predict the success likelihood of a new product. 
+# Data Scraping and Machine Learning
+This project demonstrates a full life-cycle a data science product, from data collection to data analytics and machine learning. First, a web scraping script is run to collect product data from a fashion retailer's website. Next, basic data cleaning and analytic are performed to evaluate and explore the dataset. Lastly, logistic regression is deloyed to determine if a new product will likely to be populare. 
+
+## 1. HTML Webpage Scraping
+Run `` in console 
+
+## 2. Data Exploration
+
+## 3. Logistic Regression
